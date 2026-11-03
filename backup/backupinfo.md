@@ -40,9 +40,9 @@ Organization Microproccess Systems/Лекция 1.md:
       digest: 5eb589fe6f5bc05247fbdbe42efbaf06ae4f8c5bfa2f68de93428644939e82ee
 Organization Microproccess Systems/Organization Microproccess Systems.md:
   filename: Organization Microproccess Systems/Organization Microproccess Systems.md
-  digest: c165e834669b375ff4b404cf3ba0e2d8fbc48d7be8aa02890328376da9fd1692
-  mtime: 1793038221041
-  processed: 1793038263855
+  digest: 778cad31c4d0c8dc90ca1fb4885e0c8ef51b284493ad2a7e973e18e2abd72c05
+  mtime: 1793678187559
+  processed: 1793678192149
   missing: false
   history:
     - zipName: 2026-9-25-33513.zip
@@ -77,6 +77,10 @@ Organization Microproccess Systems/Organization Microproccess Systems.md:
       modified: 2026-10-26T18:10:21.041Z
       processed: 1793038263855
       digest: c165e834669b375ff4b404cf3ba0e2d8fbc48d7be8aa02890328376da9fd1692
+    - zipName: 2026-11-3-32192.zip
+      modified: 2026-11-03T03:56:27.559Z
+      processed: 1793678192149
+      digest: 778cad31c4d0c8dc90ca1fb4885e0c8ef51b284493ad2a7e973e18e2abd72c05
 Templates/Утверждение.md:
   filename: Templates/Утверждение.md
   digest: 785cfaa696f553e1dcfdf9fa1cd9eb81a33c876d882566001f968b4c062f482d
@@ -220,9 +224,9 @@ Templates/Замечание.md:
       digest: 89615286802d75c986b0b3ffa74f5dffe2a69015628668349b61c5ad8e431bdc
 Excalidraw/OMPS.md:
   filename: Excalidraw/OMPS.md
-  digest: 7c792e11433d912f7c0ad203a32aae9a8b2542753f4725c91f686b355ce82f37
-  mtime: 1793038206924
-  processed: 1793038263855
+  digest: 5d1e61df8afdfba50738d26963d480ac397d625864a7771458429b5dde82b6ef
+  mtime: 1793677432423
+  processed: 1793678192149
   missing: false
   history:
     - zipName: 2026-9-25-33725.zip
@@ -261,6 +265,10 @@ Excalidraw/OMPS.md:
       modified: 2026-10-26T18:10:06.924Z
       processed: 1793038263855
       digest: 7c792e11433d912f7c0ad203a32aae9a8b2542753f4725c91f686b355ce82f37
+    - zipName: 2026-11-3-32192.zip
+      modified: 2026-11-03T03:43:52.423Z
+      processed: 1793678192149
+      digest: 5d1e61df8afdfba50738d26963d480ac397d625864a7771458429b5dde82b6ef
 Дополнения/Арифметическое логическое устройство.md:
   filename: Дополнения/Арифметическое логическое устройство.md
   digest: b1a3ce9e76285e0f64c1a5c3f4e7690956ae6d9237415f81981a24afdc6659b7
@@ -419,9 +427,9 @@ Organization Microproccess Systems/Лекция 5.md:
       digest: a45dfd476d039d378f70b4c4c6268133fad287d38d5bc4e04dcae11ea13677f8
 Organization Microproccess Systems/Лекция 6.md:
   filename: Organization Microproccess Systems/Лекция 6.md
-  digest: 39354bca606cdf07fde60562f89d73eae3659796a93494b94c86fcb548136f37
-  mtime: 1792418540661
-  processed: 1793037497196
+  digest: 0ce228e457d4ccc16f9125e1c43081fb848179668f7c58b1d105e8a89861d17f
+  mtime: 1793678168084
+  processed: 1793678192149
   missing: false
   history:
     - zipName: 2026-10-19-68276.zip
@@ -432,6 +440,10 @@ Organization Microproccess Systems/Лекция 6.md:
       modified: 2026-10-19T14:02:20.661Z
       processed: 1793037497196
       digest: 39354bca606cdf07fde60562f89d73eae3659796a93494b94c86fcb548136f37
+    - zipName: 2026-11-3-32192.zip
+      modified: 2026-11-03T03:56:08.084Z
+      processed: 1793678192149
+      digest: 0ce228e457d4ccc16f9125e1c43081fb848179668f7c58b1d105e8a89861d17f
 Дополнения/Регистр слова состояние.md:
   filename: Дополнения/Регистр слова состояние.md
   digest: f053b58c04bb01d140d870c4bdf2cbd92fb3fac878fe5337f4e56978ca7aa387
@@ -491,5 +503,16 @@ Organization Microproccess Systems/Лекция 7.md:
       modified: 2026-10-26T18:09:07.954Z
       processed: 1793038263855
       digest: 9fb0eef92c5e79799e8cb8de1df071d822c764f97156600519490412f3f88371
+Organization Microproccess Systems/Лекция 8.md:
+  filename: Organization Microproccess Systems/Лекция 8.md
+  digest: c63da2dccbb9fe50569cb98f5c6ca2ff076028e7816f522aa93c7b368e7e87cd
+  mtime: 1793677993546
+  processed: 1793678192149
+  missing: false
+  history:
+    - zipName: 2026-11-3-32192.zip
+      modified: 2026-11-03T03:53:13.546Z
+      processed: 1793678192149
+      digest: c63da2dccbb9fe50569cb98f5c6ca2ff076028e7816f522aa93c7b368e7e87cd
 
 ```
