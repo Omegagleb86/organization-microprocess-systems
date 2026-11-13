@@ -40,9 +40,9 @@ Organization Microproccess Systems/Лекция 1.md:
       digest: 5eb589fe6f5bc05247fbdbe42efbaf06ae4f8c5bfa2f68de93428644939e82ee
 Organization Microproccess Systems/Organization Microproccess Systems.md:
   filename: Organization Microproccess Systems/Organization Microproccess Systems.md
-  digest: 778cad31c4d0c8dc90ca1fb4885e0c8ef51b284493ad2a7e973e18e2abd72c05
-  mtime: 1793678187559
-  processed: 1793678192149
+  digest: 23d92edf44febc77edf3caba45cc22fbe98a4507fb8e70f3cff538b30f460508
+  mtime: 1794561912612
+  processed: 1794575285416
   missing: false
   history:
     - zipName: 2026-9-25-33513.zip
@@ -81,6 +81,10 @@ Organization Microproccess Systems/Organization Microproccess Systems.md:
       modified: 2026-11-03T03:56:27.559Z
       processed: 1793678192149
       digest: 778cad31c4d0c8dc90ca1fb4885e0c8ef51b284493ad2a7e973e18e2abd72c05
+    - zipName: 2026-11-13-65285.zip
+      modified: 2026-11-13T09:25:12.612Z
+      processed: 1794575285416
+      digest: 23d92edf44febc77edf3caba45cc22fbe98a4507fb8e70f3cff538b30f460508
 Templates/Утверждение.md:
   filename: Templates/Утверждение.md
   digest: 785cfaa696f553e1dcfdf9fa1cd9eb81a33c876d882566001f968b4c062f482d
@@ -224,9 +228,9 @@ Templates/Замечание.md:
       digest: 89615286802d75c986b0b3ffa74f5dffe2a69015628668349b61c5ad8e431bdc
 Excalidraw/OMPS.md:
   filename: Excalidraw/OMPS.md
-  digest: 5d1e61df8afdfba50738d26963d480ac397d625864a7771458429b5dde82b6ef
-  mtime: 1793677432423
-  processed: 1793678192149
+  digest: abbaa880bc1ee0949c2de3a35065bdb37cffcc8e92a890a4db7bc0bcf466f91e
+  mtime: 1794575254387
+  processed: 1794575285416
   missing: false
   history:
     - zipName: 2026-9-25-33725.zip
@@ -269,6 +273,10 @@ Excalidraw/OMPS.md:
       modified: 2026-11-03T03:43:52.423Z
       processed: 1793678192149
       digest: 5d1e61df8afdfba50738d26963d480ac397d625864a7771458429b5dde82b6ef
+    - zipName: 2026-11-13-65285.zip
+      modified: 2026-11-13T13:07:34.387Z
+      processed: 1794575285416
+      digest: abbaa880bc1ee0949c2de3a35065bdb37cffcc8e92a890a4db7bc0bcf466f91e
 Дополнения/Арифметическое логическое устройство.md:
   filename: Дополнения/Арифметическое логическое устройство.md
   digest: b1a3ce9e76285e0f64c1a5c3f4e7690956ae6d9237415f81981a24afdc6659b7
@@ -514,5 +522,38 @@ Organization Microproccess Systems/Лекция 8.md:
       modified: 2026-11-03T03:53:13.546Z
       processed: 1793678192149
       digest: c63da2dccbb9fe50569cb98f5c6ca2ff076028e7816f522aa93c7b368e7e87cd
+Дополнения/Прерывания.md:
+  filename: Дополнения/Прерывания.md
+  digest: 3626e66735697a284be511f3b8da87a1c41bcffd1ac83b31d53b9a3439a8c224
+  mtime: 1794571294371
+  processed: 1794575285416
+  missing: false
+  history:
+    - zipName: 2026-11-13-65285.zip
+      modified: 2026-11-13T12:01:34.371Z
+      processed: 1794575285416
+      digest: 3626e66735697a284be511f3b8da87a1c41bcffd1ac83b31d53b9a3439a8c224
+Дополнения/Pasted Image 20261113143535_060.png:
+  filename: Дополнения/Pasted Image 20261113143535_060.png
+  digest: ed1c101d65257c77e30bc91253356840bafb3d95d4d863754a77d35fc4499ade
+  mtime: 1794562535070
+  processed: 1794575285416
+  missing: false
+  history:
+    - zipName: 2026-11-13-65285.zip
+      modified: 2026-11-13T09:35:35.070Z
+      processed: 1794575285416
+      digest: ed1c101d65257c77e30bc91253356840bafb3d95d4d863754a77d35fc4499ade
+Organization Microproccess Systems/Лекция 9.md:
+  filename: Organization Microproccess Systems/Лекция 9.md
+  digest: cb3c0295a0766081427743f52f4769179867e5db06fa9743f9e91e89a9343d2e
+  mtime: 1794575235803
+  processed: 1794575285416
+  missing: false
+  history:
+    - zipName: 2026-11-13-65285.zip
+      modified: 2026-11-13T13:07:15.803Z
+      processed: 1794575285416
+      digest: cb3c0295a0766081427743f52f4769179867e5db06fa9743f9e91e89a9343d2e
 
 ```
